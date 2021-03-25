@@ -1,0 +1,2 @@
+# EjerciciosSubnetting
+Boletín con 50 ejercicios de Subnetting FLSM (máscara fija) y VLSM (máscara variable) en redes privadas. Incluye PDF solo con los enunciados y también las soluciones paso a paso. Pensado para Ciclos Formativos de Informática #FPINFOR #SMR y #ASIR. Módulos "Redes Locales" #REDES #RAL #RLO y "Planificación y Administración de Redes" #PAR. También puede servir para nivel universitario.
